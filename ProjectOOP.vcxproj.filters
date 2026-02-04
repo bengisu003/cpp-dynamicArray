@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\DynamicArray.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="DynamicArray.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="SortedArray.cpp">
+    <ClCompile Include="src\SortedArray.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="UniqueArray.cpp">
+    <ClCompile Include="src\UniqueArray.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DynamicArray.h">
+    <ClInclude Include="src\DynamicArray.h">
       <Filter>Kaynak Dosyaları\Üst Bilgi Dosyaları</Filter>
     </ClInclude>
-    <ClInclude Include="SortedArray.h">
+    <ClInclude Include="src\SortedArray.h">
       <Filter>Kaynak Dosyaları\Üst Bilgi Dosyaları</Filter>
     </ClInclude>
-    <ClInclude Include="UniqueArray.h">
+    <ClInclude Include="src\UniqueArray.h">
       <Filter>Kaynak Dosyaları\Üst Bilgi Dosyaları</Filter>
     </ClInclude>
   </ItemGroup>

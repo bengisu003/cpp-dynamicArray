@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\DynamicArray.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\SortedArray.cpp" />
+    <ClCompile Include="src\UniqueArray.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\DynamicArray.h" />
+    <ClInclude Include="src\SortedArray.h" />
+    <ClInclude Include="src\UniqueArray.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -122,17 +133,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="DynamicArray.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="SortedArray.cpp" />
-    <ClCompile Include="UniqueArray.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="DynamicArray.h" />
-    <ClInclude Include="SortedArray.h" />
-    <ClInclude Include="UniqueArray.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
