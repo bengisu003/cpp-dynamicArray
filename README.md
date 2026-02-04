@@ -5,17 +5,18 @@ Custom dynamic array structures implemented in C++ using Object-Oriented Program
 DynamicArrayProject/
 │
 ├── src/
-│   ├── DynamicArray.cpp     — base dynamic array implementation
-│   ├── DynamicArray.h       
-│   ├── SortedArray.cpp      — automatically sorted array
+│   ├── DynamicArray.cpp
+│   ├── DynamicArray.h
+│   ├── SortedArray.cpp
 │   ├── SortedArray.h
-│   ├── UniqueArray.cpp      — prevents duplicate elements
+│   ├── UniqueArray.cpp
 │   ├── UniqueArray.h
-│   └── main.cpp             — test usage
+│   └── main.cpp
 │
 ├── ProjectOOP.sln
 ├── ProjectOOP.vcxproj
-├── README.md
+└── README.md
+
 
 # Technologies
 - C++
