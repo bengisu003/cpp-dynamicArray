@@ -1,6 +1,9 @@
 # C++ Dynamic Array OOP Project
 Custom dynamic array structures implemented in C++ using Object-Oriented Programming principles without STL containers.
 
+# Notes 
+This project is a two-person group project completed as part of the Object-Oriented Programming (OOP) course.
+
 # Project Structure
 ```
 DynamicArrayProject/
